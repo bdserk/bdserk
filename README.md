@@ -1,7 +1,7 @@
 ### Hi there 👋
 > like shared blog 
 
-- :tophat: technical analysis .  :meat_on_bone: ops 
+:tophat: technical analysis .  :meat_on_bone: ops 
 
 <!--
 **bdserk/bdserk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
