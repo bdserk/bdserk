@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- :tophat:
+- :meat_on_bone: 
 <!--
 **bdserk/bdserk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
