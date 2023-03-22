@@ -4,6 +4,7 @@
   <a href="https://www.bdser.cc">Blog</a> •
   <a href="https://twitter.com/bdstravel22">Twitter</a>
 </p>
+
 :tophat: technical analysis .  :meat_on_bone: ops  
 
 - 🔭 I’m currently working on SH
@@ -13,7 +14,7 @@
 
 
 
-<picture>
+<picture align="right">
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
