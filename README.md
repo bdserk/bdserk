@@ -6,7 +6,7 @@
 
 
 
-### show
+### person show
 - 🔭 I’m currently working on SH
 - 🌱 I’m currently learning go
 - :tophat: I’m looking for help with devops
