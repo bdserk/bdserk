@@ -1,4 +1,9 @@
-### Hi there 👋
+
+<h2 align="center">👋 Hello! I'm Athul.</h2>
+<p align="center">
+  <a href="https://blog.athulcyriac.in">Blog</a> •
+  <a href="https://twitter.com/athulcajay">Twitter</a>
+</p>
 > like shared blog 
 
 :tophat: technical analysis .  :meat_on_bone: ops                                    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
