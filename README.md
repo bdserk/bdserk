@@ -6,6 +6,13 @@
 </p>
 :tophat: technical analysis .  :meat_on_bone: ops  
 
+- 🔭 I’m currently working on SH
+- 🌱 I’m currently learning go
+- 🤔 I’m looking for help with devops
+-  :meat_on_bone: Fun fact: BTC,ETH,Trader
+
+
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
