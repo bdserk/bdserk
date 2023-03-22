@@ -12,6 +12,6 @@
 - :tophat: I’m looking for help with devops
 -  :meat_on_bone: Fun fact: Trader，technical analysis 
                                  
-<p align="right">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </p>
