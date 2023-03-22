@@ -13,5 +13,5 @@
 -  :meat_on_bone: Fun fact: Trader，technical analysis 
                                  
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=bdserk&show_icons=true" />
 </p>
