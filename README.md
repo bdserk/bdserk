@@ -1,5 +1,3 @@
-
-
 <h2 align="center">👋 Hello! I'm bdstravel.</h2>
 <p align="center">
   <a href="https://www.bdser.cc">Blog</a> •
@@ -10,8 +8,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </p>
 
-### show 
-
+### show
 - 🔭 I’m currently working on SH
 - 🌱 I’m currently learning go
 - :tophat: I’m looking for help with devops
