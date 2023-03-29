@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm bdstravel.</h2>
 <p align="center">
-  <a href="https://www.bdser.cc">Blog</a> •
+  <a href="https://www.budongshu.cn">Blog</a> •
   <a href="https://twitter.com/bdstravel22">Twitter</a>
 </p>
 
